@@ -19,18 +19,10 @@ Here are some ideas to get you started:
 
 I am currently a Computer Science & Physics undergraduate at the University of Illinois - Urbana Champaign(UIUC). I am very interested in Machine Learning, Generative AI(Safety and LLM Agents), as well as Full Stack Development. I am from the Bay Area, check out my projects!
 
-- 🔭 I’m currently working on a [Your Project Name]
-- 🌱 I’m currently learning [What You Are Learning]
-- 👯 I’m looking to collaborate on [Your Collaboration Interest]
-- 🤔 I’m looking for help with [What You Need Help With]
-- 💬 Ask me about [Topics You Can Help With]
-- 📫 How to reach me: [Your Email]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
-
-### Connect with me:
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
+### Connect With Me:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)[![LinkedIn][linkedin-shield]][linkedin-url]
 
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 [linkedin-url]: https://linkedin.com/in/[Your LinkedIn Profile]
