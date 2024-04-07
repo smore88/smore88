@@ -25,11 +25,11 @@ I am currently a Computer Science & Physics undergraduate at the University of I
   <img src="./images/linkedin_icon.png" alt="LinkedIn" width="50" height="50"/>
 </a>
 
-### Skills:
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css,bootstrap,react,nodejs,mysql,docker,aws,git,bash,windows)](https://skillicons.dev)
+### Here is a list of the Tools and Frameworks I am proficient with:
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudiom,azure,bitbucket,bootstrap,cmake,django,docker,firebase,gradle,grafana,graphql,jenkins,jquery,mongodb,mysql,nextjs,nodejs,postgres,pytorch,react,redis,spring,sklearn,tailwind)](https://skillicons.dev)
 
-[![JavaScript][JavaScript]][JavaScript-url]
-[![React][React.js]][React-url]
+### Here is a list of the Languages I am proficient with:
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,c,cpp,css,html,)](https://skillicons.dev)
 ...
 
 [JavaScript]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
