@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a Developer, Creator, and Teacher!
+### Introduction
+
+I am currently a Computer Science & Physics undergraduate at the University of Illinois - Urbana Champaign(UIUC). I am very interested in Machine Learning, Generative AI(Safety and LLM Agents), as well as Full Stack Development. I am from the Bay Area, check out my projects!
 
 - 🔭 I’m currently working on a [Your Project Name]
 - 🌱 I’m currently learning [What You Are Learning]
