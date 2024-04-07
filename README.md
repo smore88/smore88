@@ -21,7 +21,7 @@ I am currently a Computer Science & Physics undergraduate at the University of I
 
 ### Connect With Me:
 
-[![LinkedIn](./images/linkedin.png)](https://www.linkedin.com/in/smore88/)
+[![LinkedIn](./images/linkedin_icon.png)](https://www.linkedin.com/in/smore88/)
 
 ### Languages and Tools:
 
