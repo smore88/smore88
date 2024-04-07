@@ -25,7 +25,8 @@ I am currently a Computer Science & Physics undergraduate at the University of I
   <img src="./images/linkedin_icon.png" alt="LinkedIn" width="50" height="50"/>
 </a>
 
-### Languages and Tools:
+### Skills:
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,c,cpp,html,css,bootstrap,react,nodejs,mysql,docker,aws,git,bash,windows)](https://skillicons.dev)
 
 [![JavaScript][JavaScript]][JavaScript-url]
 [![React][React.js]][React-url]
