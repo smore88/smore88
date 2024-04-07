@@ -1,5 +1,5 @@
 ### Hi, My name is Shubham More👋
-
+## A Software Engineer based in the Bay Area
 <!--
 **smore88/smore88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
