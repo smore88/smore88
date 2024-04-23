@@ -1,6 +1,6 @@
 # Hi, My name is Shubham More👋
 
-## A Software Engineer based in the Bay Area
+## A Computer Science Undergraduate based in the Bay Area
 - 🔭 I’m currently working on a machine learning project involving prediction of house prices.
 - 🌱 I’m currently learning how to use LangChain and Pinecone
 - 📫 How to reach me: svmore2@illinois.edu, shubmore1999@gmail.com
