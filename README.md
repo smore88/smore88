@@ -7,7 +7,7 @@
 
 ### Introduction
 
-I am currently a Computer Science & Physics undergraduate at the University of Illinois - Urbana Champaign(UIUC). I am very interested in Machine Learning, Applications of Generative AI(Safety and LLM Agents), as well as Full Stack Development. check out my projects!
+I am currently a Computer Science & Physics undergraduate at the University of Illinois - Urbana Champaign(UIUC) graduating in December 2025. I am very interested in Machine Learning, building LLM Agents, as well as Full Stack Development. check out my projects! I am actively looking for Fall/Spring Co-Op and summer internship opportunities. For the past little over a year, I have been a Software Engineering Intern at Synchrony Financial headquartered in Chicago, IL.
 
 ### Connect With Me:
 
