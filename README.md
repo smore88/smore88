@@ -6,7 +6,7 @@
 
 ## Current Projects in 2026
 
-- 🚶 **[Wanderless](https://github.com/smore88/wanderless)** - A productivity tool that helps peopl own their attention.
+- 🚶 **[Wanderless](https://github.com/smore88/wanderless)** - A productivity tool that helps people own their attention.
 
 ## More Me
 I have a personal website if you're curious to learn more about my history and background
