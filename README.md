@@ -2,7 +2,7 @@
 
 📍 **San Jose, CA** | 🤖 **engineer @ NVIDIA** | 🚀 **prev intern @ SpaceX, Tesla**
 
-> Trying to tinker on a few things that excite me before & after work and ship things faster with AI assistance
+> Just tinkering on things that excite me in my free time with goal of shipping a whole lot more
 
 ## Current Projects in 2026
 
