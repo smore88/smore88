@@ -1,6 +1,6 @@
 # Hello, I'm Shubham 👋
 
-📍 **San Jose, CA** | 🤖 **engineer @ NVIDIA** | 🚀 **prev intern @ SpaceX, Tesla**
+📍 **San Jose, CA** | 🤖 **swe @ NVIDIA** | 🚀 **prev intern @ SpaceX, Tesla**
 
 > Just tinkering on things that excite me in my free time with goal of shipping a whole lot more
 
